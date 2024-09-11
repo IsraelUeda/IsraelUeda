@@ -1,8 +1,9 @@
 Oii! Eu sou o Israel Ueda
 
 - 🔭 Hoje estou a procura de um estágio.
+- 😎 Atualmente no 6º semestre de Ciências da Computação.
 - 🌱 Estudando Python, Javascript, Css.
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <div>
   <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=IsraelUeda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
@@ -27,5 +28,3 @@ Oii! Eu sou o Israel Ueda
 </div>
 
 ##
-
-![Snake_animation](https://github.com/IsraelUeda/IsraelUeda/blob/output/github-contribution-grid-snake.svg)
