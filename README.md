@@ -17,7 +17,7 @@ Oii! Eu sou o Israel Ueda
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Israel" scr="https://cdn.discordapp.com/attachments/1018233398260678799/1283243907811119104/israel.gif">
+  <img align="right" alt="Israel" src="https://cdn.discordapp.com/attachments/1018233398260678799/1283248279244636262/Untitled_video_Feito_com_o_Clipchamp.gif?ex=66e24d97&is=66e0fc17&hm=b09b236f95b037a15620545b7367e76bf873b5cc6b181f8d7f1867d8e17919f3&">
 </div>
 
  ##
@@ -28,4 +28,3 @@ Oii! Eu sou o Israel Ueda
   <a href="https://www.linkedin.com/in/israel-massatoshi-9b810323a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
