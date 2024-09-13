@@ -8,8 +8,8 @@ Oii! Eu sou o Israel Ueda
 ##
 
 <div>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=IsraelUeda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelUeda&lang_count=16&layout=compact&theme=dracula"/>
+  <img height="190cm" src="https://github-readme-stats.vercel.app/api?username=IsraelUeda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="190cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelUeda&lang_count=16&layout=compact&theme=dracula"/>
 
 
 <div style="display: inline_block"><br>
