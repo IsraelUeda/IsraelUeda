@@ -4,6 +4,7 @@ Oii! Eu sou o Israel Ueda
 - 😎 Atualmente no 7º semestre de Ciências da Computação.
 - 🌱 Estudando Python, Javascript, Css e Reactjs
 - 😄 Pronomes: Ele/Dele
+- Currículo: https://israelueda.github.io/curriculo-em-p-gina-web/
 
 ##
 
