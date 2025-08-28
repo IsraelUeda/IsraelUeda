@@ -2,8 +2,7 @@ Oii! Eu sou o Israel Ueda
 
 - 🔭 Hoje estou a procura de um estágio.
 - 😎 Atualmente no 8º semestre de Ciências da Computação.
-- 🌱 Estudando Python, Javascript, Css e Reactjs
-- 😄 Pronomes: Ele/Dele
+- 🌱 Estudando Python, Javascript, Css e php
 - Currículo: https://israelueda.github.io/curriculo-em-p-gina-web/
 
 ##
