@@ -2,7 +2,7 @@ Oii! Eu sou o Israel Ueda
 
 - 🔭 Hoje estou a procura de um estágio.
 - 😎 Atualmente no 8º semestre de Ciências da Computação.
-- 🌱 Estudando Python, Javascript, Css e php
+- 🌱 Estudando Python, Javascript, Css, php e Linux
 - Currículo: https://israelueda.github.io/curriculo-em-p-gina-web/
 
 ##
