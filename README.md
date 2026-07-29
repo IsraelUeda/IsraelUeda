@@ -40,8 +40,8 @@ Mission   :: Build reliable and secure systems
 ## CURRENTLY
 
 - Procurando oportunidade como Desenvolvedor Júnior.
-- Cursando o 8º semestre de Ciência da Computação.
-- Desenvolvendo projetos com Python, PHP e JavaScript.
+- Formado em Ciência da Computação.
+- Desenvolvendo projetos com Python, C# e JavaScript.
 - Estudando Inteligência Artificial, Linux e Infraestrutura.
 - Construindo um Homelab para aprendizado contínuo.
 
