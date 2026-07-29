@@ -14,7 +14,7 @@
 
 USER.............. Israel Ueda
 STATUS............ Available for Junior Opportunities
-LEVEL............. Computer Science - 8th Semester
+LEVEL............. Computer Science 
 SYSTEM............ Arch Linux
 WM................ Hyprland
 SHELL............. Zsh
